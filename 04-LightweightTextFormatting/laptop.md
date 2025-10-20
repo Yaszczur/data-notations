@@ -5,3 +5,4 @@ A laptop computer or notebook computer, also known as a laptop or notebook, is a
 [More informations](https://en.wikipedia.org/wiki/Laptop)
 ### **Types of laptops**
 Since the 1970s introduction of portable computers, their forms have changed significantly, resulting in a variety of visually and technologically differing subclasses. Excepting distinct legal trademark around terms (notably Ultrabook), hard distinctions between these classes were rare, and their usage has varied over time and between sources. Since the late 2010s, more specific terms have become less commonly used, with sizes distinguished largely by the size of the screen.
+### **Hardware**
